@@ -1,5 +1,5 @@
 # Simple-Game-with-graphics
-**Simple game with graphics
+**Simple game with graphics**
 
 
 The objective of this game is to acquire the highest score by moving the player square over the prize circles. 
